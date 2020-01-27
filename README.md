@@ -5,4 +5,4 @@ This repo contains records provided to the Center for Public Integrity in respon
 
 This repo contains records provided by Georgia, Kansas, Minnesota, Missouri, Oklahoma and Wisconsin.
 
-A few states provide chemical and facility information to the public online while others produced the information when requested. Some states declined to provide any information or would only provide details if a requester inquired about a specific facility.
+A few states provide chemical and facility information to the public online and others produced the information when requested. Some states declined to provide any information or would only provide details if a requester inquired about a specific facility.
